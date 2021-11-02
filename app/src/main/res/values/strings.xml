@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GLCroatia</string>
+    <string name="refresh">Refresh</string>
+    <string name="server_error">Some server error occured</string>
+    <string name="name">Name</string>
+    <string name="moves">Moves</string>
+
+</resources>

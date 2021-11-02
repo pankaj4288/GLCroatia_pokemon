@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_margin">10dp</dimen>
+    <dimen name="image_width">100dp</dimen>
+    <dimen name="seekbar_height">250dp</dimen>
+
+</resources>
