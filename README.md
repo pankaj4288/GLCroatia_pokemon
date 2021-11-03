@@ -1,7 +1,7 @@
 # GLCroatia_pokemon
 
 
-This app used api https://pokeapi.co/api/v2/pokemon/{id} to fetch pokemon details and show below info
+This app uses api https://pokeapi.co/api/v2/pokemon/{id} to fetch pokemon details and show below info
 -Name
 -front image
 -back image
